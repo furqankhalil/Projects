@@ -20,7 +20,7 @@ This project is in Machine Learning with Scikit-Learn. It is Supervised Machine 
 
 ## Visualization:
 
-![Visualization]((https://github.com/furqankhalil/Projects/blob/main/Naive%20Bayes%20variants%20on%20Iris%20Flower/visualization.png)
+![Visualization](https://github.com/furqankhalil/Projects/blob/main/Naive%20Bayes%20variants%20on%20Iris%20Flower/visualization.png)
 
 
 
