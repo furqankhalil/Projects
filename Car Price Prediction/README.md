@@ -1,6 +1,15 @@
 # Predicting Car Prices
 
 This is my first project in Machine Learning with Scikit Learn. It is a supervised Machine Learning Regression problem. My aim is to predict the car price given different features. The dataset is downloaded from Kaggle. I have used Random Forest Regressor with RandomizedSearchCV for prediction. I have achieved 95% on the predicted dataset. The model is saved using pickle and deployed using Streamlit.
+
+## Features
+- Year Purchased
+- Current Price
+- Distance Travelled (Km)
+- Fuel Type
+- Number of Previous Owners
+- Transmission Type
+
 ## Concise Steps
 
 - Importing the main libraries
