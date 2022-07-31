@@ -13,5 +13,11 @@ This is my project in Machine Learning with Scikit Learn. It is a supervised mac
 - Predicting the test dataset
 - Evaluating the model
 
+## Dataset Images
 
+![Male Actor](https://github.com/furqankhalil/Projects/blob/main/Image%20Processing/Male.png)
+![Female Actor](https://github.com/furqankhalil/Projects/blob/main/Image%20Processing/Female.png)
 
+## Results
+
+![Results](https://github.com/furqankhalil/Projects/blob/main/Image%20Processing/Results.png)
