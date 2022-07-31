@@ -22,3 +22,5 @@ This is my first project in Machine Learning with Scikit Learn. It is a supervis
 - Predicting the test dataset
 - Evaluating the model
 - Saving the model using Pickle
+
+![Interface](https://github.com/furqankhalil/Projects/blob/main/Car%20Price%20Prediction/Screenshot%202022-07-30%20055508.png)
