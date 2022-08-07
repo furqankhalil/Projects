@@ -14,8 +14,11 @@ This project is in Machine Learning with Scikit-Learn. It is Unsupervised Machin
 - Visualizing Predicted Clusters with their Centroids.
 
 
-## Dataset images
+## Elbow Method 
 
-![Project Image]()
+![Elbow Method](https://github.com/furqankhalil/Projects/blob/main/Clustering%20Technique%20on%20Iris%20Flower/Elbow%20Method.png)
 
+## Predicted Clusters with Centroids
+
+![Elbow Method](https://github.com/furqankhalil/Projects/blob/main/Clustering%20Technique%20on%20Iris%20Flower/Predicted%20Clusters%20With%20Centroids.png)
 
